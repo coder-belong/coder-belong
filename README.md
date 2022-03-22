@@ -37,7 +37,7 @@
 ### 开源项目
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=belong-coder&repo=Vue_Take_Out)](https://github.com/belong-coder/Vue_Take_Out)
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=belong-coder&repo=knowledge-Hierarchy)](https://github.com/belong-coder/knowledge-Hierarchy)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=belong-coder&repo=knowledge-Hierarchy)](https://github.com/belong-coder/smart_city_v1)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=belong-coder&repo=smart_city_v1)](https://github.com/belong-coder/smart_city_v1)
 <br>
 
 ### Github 统计
