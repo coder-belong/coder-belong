@@ -1,49 +1,31 @@
-<!-- Your title -->
-## 前端工程师-猫叔
+<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
-<!-- 左侧图片  -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Grayson-coder)
+### Hi there, I am Coder-Belong👋
 
+> A Front end developer from **FUZhou, China**.
 
-<!-- Talking about you -->
-**关于我:**
+### 🏗️ Learning：
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
-- 🌱 目前大三，就读于福建福州
-- 👨🏽‍💻 近期的目标是打算学习Java
-- 👯 热爱前端，热爱技术，励志成为一个全栈工程师
-- 💬 有任何问题都可以问我，我很乐意提供帮助；
-- 📫 如何联系我：33158742@qq.com
+### 📫 Reach me:
 
-**技术栈** 
-<p>
-  
+- **QQ** : 33158742
+- **WeChat** : belong_up
+- **Phone** : 18850454419
+- **E-mail** : 33158742@qq.com
 
+### 🏠 Blog：
 
-  <code><img width="40" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/typescript.png"></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img height="40" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/vite.png"></code>
-  <code><img height="40" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/less.png"></code>
-  <code><img height="40" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/vant.png"></code>
-  <code><img height="40" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/docker.png"></code>
+- **[https://www.belong.run](https://www.belong.run)**
 
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<br><br>
+### 📈 Activity Graph：
 
-
-<!-- Its main projects -->
-### 开源项目
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=belong-coder&repo=Vue_Take_Out)](https://github.com/belong-coder/Vue_Take_Out)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=belong-coder&repo=knowledge-Hierarchy)](https://github.com/belong-coder/knowledge-Hierarchy)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=belong-coder&repo=smart_city_v1)](https://github.com/belong-coder/smart_city_v1)
-<br>
-
-### Github 统计
-<img width="35%" align="left" alt="belong-coder's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belong-coder" />
-<img width="55%" align="right" alt="belong-coder's github stats" src="https://github-readme-stats.vercel.app/api?username=belong-coder&show_icons=true&theme=vue" />
-
-
-
-
+![](https://activity-graph.herokuapp.com/graph?username=coder-belong=react-dark)
