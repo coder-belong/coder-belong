@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
+<p align="center"><img width="100%" src="https://belong-1304212339.cos.ap-nanjing.myqcloud.com/img/2022-06-23-263ABB7B-E9B1-4B3D-94A6-5199AC468DF4.png" /></p>
 
 ### Hi there, I am Coder-Belong👋
 
